@@ -1,0 +1,11 @@
+.articles {
+    color: #222;
+
+    width: 50%;
+    margin:auto;
+}
+.article, .form {
+    background-color: #f0f0f0;
+    margin-top: 15px;
+    padding: 10px;
+}
